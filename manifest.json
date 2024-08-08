@@ -1,15 +1,15 @@
 {
  "format_version": 2,
  "header": {
-   "description": "My dirt resource pack Add-On!",
-   "name": "My Resource Pack",
+   "description": "A resource pack that add snowy music from different games.",
+   "name": "Snow Music",
    "uuid": "a67878cb-699d-449a-9e7b-e61ed95dd065",
    "version": [1, 0, 0],
    "min_engine_version": [1, 16, 0]
   },
  "modules": [
    {
-     "description": "My First Add-On!",
+     "description": "A resource pack that add snowy music from different games.",
      "type": "resources",
      "uuid": "b002d0c1-fcd2-4c91-9b05-6495995ee6b3",
      "version": [1, 0, 0]
